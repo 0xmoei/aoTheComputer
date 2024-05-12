@@ -320,7 +320,6 @@ Send({ Target = Trinity, Action = "Claim", Data = "Your-Discord-Username" })
 
 
 ## Check Your CRED Balance in the next few days
-- Go back to your main aos terminal
 ```shell
 Send({ Target = "Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc", Action = "Balance" })
 ```
