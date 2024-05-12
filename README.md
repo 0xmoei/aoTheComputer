@@ -14,6 +14,7 @@ npm i -g https://get_ao.g8way.io
 ```shell
 aos
 ```
+- This Create a main and unique aos Proccess ID for you
 - Press Ctrl+C twice to exit aos chat
 
 
