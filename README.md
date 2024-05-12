@@ -4,6 +4,7 @@
 
 
 # Preparations
+https://cookbook_ao.g8way.io/tutorials/begin/preparations.html
 
 ## Installing aos
 ```shell
@@ -58,6 +59,8 @@ Say("/Quests:1", "Quests")
 ---------------------------------
 
 # Messaging
+https://cookbook_ao.g8way.io/tutorials/begin/messaging.html
+
 ## Run aos
 ```shell
 aos
@@ -95,6 +98,8 @@ Send({ Target = Morpheus, Data = "Code: rabbithole", Action = "Unlock" })
 ```
 
 # Create lua Chatroom
+https://cookbook_ao.g8way.io/tutorials/begin/chatroom.html
+
 - We have to create a file so better you not exit the aos and open a new terminal tab with +
 ## Create a file for lua Chatroom
 ```shell
@@ -189,6 +194,8 @@ Send({ Target = Trinity, Action = "Join" })
 
 
 # Build a Token
+https://cookbook_ao.g8way.io/tutorials/begin/token.html
+
 ## Join Token Chatroom
 ```shell
 .load-blueprint token
@@ -210,6 +217,9 @@ Send({ Target = ao.id, Action = "Info" })
 ```shell
 Send({ Target = ao.id, Action = "Transfer", Recipient = Trinity, Quantity = "1000"})
 ```
+
+# TokenGating
+https://cookbook_ao.g8way.io/tutorials/begin/tokengating.html
 
 ## Edit your Broadcast handler
 - Open a new terminal without aos
