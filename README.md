@@ -16,9 +16,10 @@ aos
 ```
 - Press Ctrl+C twice to exit aos chat
 
- 
 
 # CRED and Quests
+https://cookbook_ao.g8way.io/welcome/testnet-info/cred-and-quests.html
+
 ## Join Dev chat
 ```shell
 .load-blueprint chat
