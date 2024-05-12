@@ -1,17 +1,6 @@
-![image](https://github.com/0xmoei/0gLabs-testnet/blob/71ebf79d7da48d14c61ce0df3c28f24a26672784/0g.png)
-
-
-
 ### Official Links
  * [Moei Twitter](https://twitter.com/0xMoei)
- * [OG Discord](https://discord.gg/0glabs)
-
-
-## System Requirements
-| Ram | cpu     | disk                      |
-| :-------- | :------- | :-------------------------------- |
-| `8GB`      | `4Core` | `500+ SSD` |
-
+ * [AO discord](https://discord.gg/aAnB5SJJaa)
 
 
 ### Preparations
