@@ -2,9 +2,34 @@
  * [Moei Twitter](https://twitter.com/0xMoei)
  * [AO discord](https://discord.gg/aAnB5SJJaa)
 
-
 # Preparations
 https://cookbook_ao.g8way.io/tutorials/begin/preparations.html
+
+## Installing Dependecies
+```shell
+sudo apt-get update && sudo apt-get install wget ca-certificates
+```
+```shell
+NODE_MAJOR=18
+```
+```shell
+sudo apt-get update
+```
+```shell
+sudo mkdir -p /etc/apt/keyrings
+```
+```shell
+curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
+```
+```shell
+echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.com/node_${NODE_MAJOR}.x nodistro main" | sudo tee /etc/apt/sources.list.d/nodesource.list
+```
+```shell
+sudo apt-get update
+```
+```shell
+sudo apt-get install -y nodejs
+```
 
 ## Installing aos
 ```shell
