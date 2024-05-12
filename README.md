@@ -3,7 +3,7 @@
  * [AO discord](https://discord.gg/aAnB5SJJaa)
 
 
-### Preparations
+# Preparations
 
 ## Installing aos
 ```shell
