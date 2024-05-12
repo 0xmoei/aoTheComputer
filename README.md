@@ -1,4 +1,4 @@
-### Official Links
+# Official Links
  * [Moei Twitter](https://twitter.com/0xMoei)
  * [AO discord](https://discord.gg/aAnB5SJJaa)
 
@@ -16,7 +16,7 @@ aos
 ```
 - Press Ctrl+C twice to exit aos chat
 
-### CRED and Quests
+# CRED and Quests
 ## Join Dev chat
 ```shell
 .load-blueprint chat
@@ -50,10 +50,10 @@ Say("/Quests:1", "Quests")
 - Press Ctrl+C twice to exit aos chat
 
 ---------------------------------
-### "Quest 1 : Begin" Guide
+# "Quest 1 : Begin" Guide
 ---------------------------------
 
-### Messaging
+# Messaging
 ## Run aos
 ```shell
 aos
@@ -90,7 +90,7 @@ Inbox[#Inbox].Data
 Send({ Target = Morpheus, Data = "Code: rabbithole", Action = "Unlock" })
 ```
 
-### Create lua Chatroom
+# Create lua Chatroom
 - We have to create a file so better you not exit the aos and open a new terminal tab with +
 ## Create a file for lua Chatroom
 ```shell
@@ -184,7 +184,7 @@ Send({ Target = Trinity, Action = "Join" })
 - Now you should have 3 Proccess IDs in the members
 
 
-### Build a Token
+# Build a Token
 ## Join Token Chatroom
 ```shell
 .load-blueprint token
