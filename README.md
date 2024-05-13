@@ -327,20 +327,28 @@ Send({ Target = ao.id , Action = "Broadcast", Data = "It is done" })
 
 You Are done now you have to
 1) Join Construct Chat
-2) Send your discord-ID to Trinity
-3) Post your main aos Proccess ID in #q1-claims discord channel
+2) Download arconnect wallet and import .aos.json
+3) Conncet wallet and twitter to https://vouch-twitter.arweave.dev
+4) Send your discord-ID to Trinityz
+5) Post your main aos Proccess ID in #q1-claims discord channel
 
 ## 1) Join Construct Chat
 ```shell
 Send({Target = "jg2Duezl68c8lHU5RiV8kHZrZ-7MJSVyyfQDhz5nJqQ", Action = "Register"})
 ```
+## 2) Download arconnect wallet and import .aos.json
+ * [ArWallet](https://www.arconnect.io/download)
+ * if you are using WSL the .aos.json is located here: \\wsl.localhost\Ubuntu\home\mirana
 
-## 2) Send your discord-ID to Trinity
+## 3) Conncet wallet and twitter and submit a vouch
+ * [Vouching site](https://vouch-twitter.arweave.dev)
+
+## 4) Send your discord-ID to Trinity
 ```shell
 Send({ Target = Trinity, Action = "Claim", Data = "Your-Discord-Username" })
 ```
 
-## 3) Post your main aos Proccess ID in #q1-claims discord channel
+## 5) Post your main aos Proccess ID in #q1-claims discord channel
  * [AO discord](https://discord.gg/aAnB5SJJaa)
 
 
