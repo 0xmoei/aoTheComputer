@@ -33,7 +33,7 @@ sudo apt-get install -y nodejs
 
 ## Installing aos
 ```shell
-npm i -g https://get_ao.g8way.io
+sudo npm i -g https://get_ao.g8way.io
 ```
 
 ## Run aos
