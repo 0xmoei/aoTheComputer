@@ -356,3 +356,8 @@ Send({ Target = Trinity, Action = "Claim", Data = "Your-Discord-Username" })
 ```shell
 Send({ Target = "Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc", Action = "Balance" })
 ```
+## Send your CRED from your process ID (Contract) to the wallet
+- it sends 1 CRED to WALLET_ADDRESS
+```shell
+Send({ Target = CRED, Action = "Transfer", Recipient = "WALLET_ADDRESS", Quantity = "1000"})
+```
