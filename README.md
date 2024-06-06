@@ -348,11 +348,7 @@ Send({Target = "jg2Duezl68c8lHU5RiV8kHZrZ-7MJSVyyfQDhz5nJqQ", Action = "Register
 Send({ Target = Trinity, Action = "Claim", Data = "Your-Discord-Username" })
 ```
 
-## 5) Post your main aos Proccess ID in #q1-claims discord channel
- * [AO discord](https://discord.gg/aAnB5SJJaa)
-
-
-## Check Your CRED Balance in the next few days
+## Check Your CRED Balance to see if your received CRED reward
 ```shell
 Send({ Target = "Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc", Action = "Balance" })
 ```
