@@ -338,7 +338,7 @@ Send({Target = "jg2Duezl68c8lHU5RiV8kHZrZ-7MJSVyyfQDhz5nJqQ", Action = "Register
 ```
 ## 2) Download arconnect wallet and import .aos.json
  * [ArWallet](https://www.arconnect.io/download)
- * if you are using WSL the .aos.json is located here: \\wsl.localhost\Ubuntu\home\mirana
+ * if you are using WSL the .aos.json is located here: \\wsl.localhost\Ubuntu\home\
 
 ## 3) Conncet wallet and twitter and submit a vouch
  * [Vouching site](https://vouch-twitter.arweave.dev)
